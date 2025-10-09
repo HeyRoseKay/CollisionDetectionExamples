@@ -1,6 +1,7 @@
 #  SwiftUI Collision Detection Examples 
 
-This is an example project to go along with the collision functions from the [CGExtender](https://github.com/HeyRoseKay/CGExtender) package. (Forked from [Kieran](https://github.com/kieranb662))
+This is an example project to go along with the collision functions from the [CGExtender](https://github.com/HeyRoseKay/CGExtender) package. 
+(Forked from [Kieran](https://github.com/kieranb662))
 
 ## Collision Functions
 
