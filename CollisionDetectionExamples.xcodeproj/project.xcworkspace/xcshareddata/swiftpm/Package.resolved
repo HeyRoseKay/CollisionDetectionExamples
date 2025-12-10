@@ -1,0 +1,15 @@
+{
+  "originHash" : "2481286a81f2789a106d7ea67bf69738ec2dc0c59ecc2d85bc492bd58743bc3b",
+  "pins" : [
+    {
+      "identity" : "cgextender",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HeyRoseKay/CGExtender",
+      "state" : {
+        "branch" : "master",
+        "revision" : "5da73ec5c21c8bb41cbbfd47a38eded88382a679"
+      }
+    }
+  ],
+  "version" : 3
+}
